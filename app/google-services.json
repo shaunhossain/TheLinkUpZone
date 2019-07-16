@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "741491389852",
+    "firebase_url": "https://thelinkupzone.firebaseio.com",
+    "project_id": "thelinkupzone",
+    "storage_bucket": "thelinkupzone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741491389852:android:7c60ed4547a23d95",
+        "android_client_info": {
+          "package_name": "com.shaunhossain.thelinkupzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741491389852-slg6qht6u4mgtjapm18deplt4mn5el21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shaunhossain.thelinkupzone",
+            "certificate_hash": "f9c0e16403ef8b2692b2c6d599a5d27a53e27737"
+          }
+        },
+        {
+          "client_id": "741491389852-ma3jf1d8t6n4vsoo39jvrtaupl619pkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxN0Tc1jMHCgTNliCQGcp4cqXKUCFu9VM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741491389852-ma3jf1d8t6n4vsoo39jvrtaupl619pkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
